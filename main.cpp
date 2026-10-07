@@ -1,3 +1,5 @@
+// https://yougame.biz/threads/390622/
+
 #include <fstream>
 #include <iostream>
 #include <cstdlib>
